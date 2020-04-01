@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Deployment
+##Steps :
+cd test-ft
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+npm install
+
+npm start
